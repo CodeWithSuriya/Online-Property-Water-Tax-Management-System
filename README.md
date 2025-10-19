@@ -137,9 +137,3 @@ Online-Property-Water-Tax-Management-System/
 ## Author
 
 **Suriya E**
-
-
-If you want, I can also **create a ready-to-use version with proper screenshots placeholders and badges** so your GitHub looks professional like a real portfolio project.  
-
-Do you want me to do that next?
-```
